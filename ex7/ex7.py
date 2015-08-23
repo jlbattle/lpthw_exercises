@@ -1,8 +1,10 @@
 print "Mary had a little lamb."
-print "Its fleece was white as %s." % 'snow'
+# This line will replace the formatter with the string 'snow' 
+print "Its fleece was white as %s." % 'snow'  
 print "And everywhere that Mary went."
-print "." * 10  #what'd that do?
+print "." * 10  #what'd that do? - It prints the . 10 times
 
+#These lines set the variables end1 - end12 to the letters of Cheesburger
 end1 = "C"
 end2 = "h"
 end3 = "e"
